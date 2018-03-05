@@ -1,12 +1,12 @@
 On this page:
 
 * [Prerequisites](https://bitbucket.org/teamshowcaser/devops/overview#prerequisites)
- * [Unzip](https://bitbucket.org/teamshowcaser/devops/overview#unzip)
- * [Terraform installation](https://bitbucket.org/teamshowcaser/devops/overview#terraform-installation)
-   * [Download Terraform](https://bitbucket.org/teamshowcaser/devops/overview#download-terraform)
-   * [Install Terraform](https://bitbucket.org/teamshowcaser/devops/overview#install-terraform)
- * [jq](https://bitbucket.org/teamshowcaser/devops/overview#jq)
- * [zip](https://bitbucket.org/teamshowcaser/devops/overview#zip)
+  * [Unzip](https://bitbucket.org/teamshowcaser/devops/overview#unzip)
+  * [Terraform installation](https://bitbucket.org/teamshowcaser/devops/overview#terraform-installation)
+     * [Download Terraform](https://bitbucket.org/teamshowcaser/devops/overview#download-terraform)
+     * [Install Terraform](https://bitbucket.org/teamshowcaser/devops/overview#install-terraform)
+  * [jq](https://bitbucket.org/teamshowcaser/devops/overview#jq)
+  * [zip](https://bitbucket.org/teamshowcaser/devops/overview#zip)
 * [Run script](https://bitbucket.org/teamshowcaser/devops/overview#run-script)
 * [Notes](https://bitbucket.org/teamshowcaser/devops/overview#notes)
 
