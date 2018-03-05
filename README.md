@@ -69,7 +69,7 @@ Generate session in terminal before run terraform scripts
 ## Notes
 
 
-While you run terraform script, It will ask for deployment version. Enter the Deployment version as shown in example below. Deployment version will append with zip file name like this *“auth-lamnda-0.0.1.zip”* . Now terraform will upload this zip file to s3 bucket. By doing this we will always  have backup of older node versions. We need to add updated version (naming convention for Version is company specific)  in every terraform cycle so that we can get updated code in NodeJs, React front and React admin
+While you run terraform script, It will ask for deployment version. Enter the Deployment version as shown in example below. Deployment version will append with zip file name like this *“auth-lambda-0.0.1.zip”* . Now terraform will upload this zip file to s3 bucket. By doing this we will always  have backup of older node versions. We need to add updated version (naming convention for Version is company specific)  in every terraform cycle so that we can get updated code in NodeJs, React front and React admin
 
 
 > var.deployment_version
