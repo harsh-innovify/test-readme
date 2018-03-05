@@ -73,4 +73,5 @@ While you run terraform script, It will ask for deployment version. Enter the De
 
 
 > var.deployment_version
+
 > Enter a value: |
